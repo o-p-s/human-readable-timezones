@@ -1,0 +1,4770 @@
+[
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Abidjan",
+    "text": "Greenwich Mean Time Africa/Abidjan (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Accra",
+    "text": "Greenwich Mean Time Africa/Accra (UTC +0000)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Addis_Ababa",
+    "text": "Eastern Africa Time Africa/Addis_Ababa (UTC +0300)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Algiers",
+    "text": "Central European Time Africa/Algiers (UTC +0100)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Asmara",
+    "text": "Eastern Africa Time Africa/Asmara (UTC +0300)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Asmera",
+    "text": "Eastern Africa Time Africa/Asmera (UTC +0300)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Bamako",
+    "text": "Greenwich Mean Time Africa/Bamako (UTC +0000)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Bangui",
+    "text": "West Africa Time Africa/Bangui (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Banjul",
+    "text": "Greenwich Mean Time Africa/Banjul (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Bissau",
+    "text": "Greenwich Mean Time Africa/Bissau (UTC +0000)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Blantyre",
+    "text": "Central Africa Time Africa/Blantyre (UTC +0200)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Brazzaville",
+    "text": "West Africa Time Africa/Brazzaville (UTC +0100)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Bujumbura",
+    "text": "Central Africa Time Africa/Bujumbura (UTC +0200)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Cairo",
+    "text": "Eastern European Time Africa/Cairo (UTC +0200)"
+  },
+  {
+    "name": "Casablanca Time",
+    "abbr": "+00",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Casablanca",
+    "text": "Casablanca Time Africa/Casablanca (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Ceuta",
+    "text": "Central European Time Africa/Ceuta (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Conakry",
+    "text": "Greenwich Mean Time Africa/Conakry (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Dakar",
+    "text": "Greenwich Mean Time Africa/Dakar (UTC +0000)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Dar_es_Salaam",
+    "text": "Eastern Africa Time Africa/Dar_es_Salaam (UTC +0300)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Djibouti",
+    "text": "Eastern Africa Time Africa/Djibouti (UTC +0300)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Douala",
+    "text": "West Africa Time Africa/Douala (UTC +0100)"
+  },
+  {
+    "name": "El Aaiun Time",
+    "abbr": "+00",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/El_Aaiun",
+    "text": "El Aaiun Time Africa/El_Aaiun (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Freetown",
+    "text": "Greenwich Mean Time Africa/Freetown (UTC +0000)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Gaborone",
+    "text": "Central Africa Time Africa/Gaborone (UTC +0200)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Harare",
+    "text": "Central Africa Time Africa/Harare (UTC +0200)"
+  },
+  {
+    "name": "South Africa Standard Time",
+    "abbr": "SAST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Johannesburg",
+    "text": "South Africa Standard Time Africa/Johannesburg (UTC +0200)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Juba",
+    "text": "Central Africa Time Africa/Juba (UTC +0200)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Kampala",
+    "text": "Eastern Africa Time Africa/Kampala (UTC +0300)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Khartoum",
+    "text": "Central Africa Time Africa/Khartoum (UTC +0200)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Kigali",
+    "text": "Central Africa Time Africa/Kigali (UTC +0200)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Kinshasa",
+    "text": "West Africa Time Africa/Kinshasa (UTC +0100)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Lagos",
+    "text": "West Africa Time Africa/Lagos (UTC +0100)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Libreville",
+    "text": "West Africa Time Africa/Libreville (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Lome",
+    "text": "Greenwich Mean Time Africa/Lome (UTC +0000)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Luanda",
+    "text": "West Africa Time Africa/Luanda (UTC +0100)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Lubumbashi",
+    "text": "Central Africa Time Africa/Lubumbashi (UTC +0200)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Lusaka",
+    "text": "Central Africa Time Africa/Lusaka (UTC +0200)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Malabo",
+    "text": "West Africa Time Africa/Malabo (UTC +0100)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Maputo",
+    "text": "Central Africa Time Africa/Maputo (UTC +0200)"
+  },
+  {
+    "name": "South Africa Standard Time",
+    "abbr": "SAST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Maseru",
+    "text": "South Africa Standard Time Africa/Maseru (UTC +0200)"
+  },
+  {
+    "name": "South Africa Standard Time",
+    "abbr": "SAST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Mbabane",
+    "text": "South Africa Standard Time Africa/Mbabane (UTC +0200)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Mogadishu",
+    "text": "Eastern Africa Time Africa/Mogadishu (UTC +0300)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Monrovia",
+    "text": "Greenwich Mean Time Africa/Monrovia (UTC +0000)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Africa/Nairobi",
+    "text": "Eastern Africa Time Africa/Nairobi (UTC +0300)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Ndjamena",
+    "text": "West Africa Time Africa/Ndjamena (UTC +0100)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Niamey",
+    "text": "West Africa Time Africa/Niamey (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Nouakchott",
+    "text": "Greenwich Mean Time Africa/Nouakchott (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Ouagadougou",
+    "text": "Greenwich Mean Time Africa/Ouagadougou (UTC +0000)"
+  },
+  {
+    "name": "West Africa Time",
+    "abbr": "WAT",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Porto-Novo",
+    "text": "West Africa Time Africa/Porto-Novo (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Sao_Tome",
+    "text": "Greenwich Mean Time Africa/Sao_Tome (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Africa/Timbuktu",
+    "text": "Greenwich Mean Time Africa/Timbuktu (UTC +0000)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Tripoli",
+    "text": "Eastern European Time Africa/Tripoli (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Africa/Tunis",
+    "text": "Central European Time Africa/Tunis (UTC +0100)"
+  },
+  {
+    "name": "Central Africa Time",
+    "abbr": "CAT",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Africa/Windhoek",
+    "text": "Central Africa Time Africa/Windhoek (UTC +0200)"
+  },
+  {
+    "name": "Hawaii-Aleutian Daylight Time",
+    "abbr": "HDT",
+    "offset": -540,
+    "utc": "(UTC -0900)",
+    "location": "America/Adak",
+    "text": "Hawaii-Aleutian Daylight Time America/Adak (UTC -0900)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Anchorage",
+    "text": "Alaska Daylight Time America/Anchorage (UTC -0800)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Anguilla",
+    "text": "Atlantic Standard Time America/Anguilla (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Antigua",
+    "text": "Atlantic Standard Time America/Antigua (UTC -0400)"
+  },
+  {
+    "name": "Araguaina Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Araguaina",
+    "text": "Araguaina Time America/Araguaina (UTC -0300)"
+  },
+  {
+    "name": "Buenos Aires Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Buenos_Aires",
+    "text": "Buenos Aires Time America/Argentina/Buenos_Aires (UTC -0300)"
+  },
+  {
+    "name": "Catamarca Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Catamarca",
+    "text": "Catamarca Time America/Argentina/Catamarca (UTC -0300)"
+  },
+  {
+    "name": "ComodRivadavia Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/ComodRivadavia",
+    "text": "ComodRivadavia Time America/Argentina/ComodRivadavia (UTC -0300)"
+  },
+  {
+    "name": "Cordoba Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Cordoba",
+    "text": "Cordoba Time America/Argentina/Cordoba (UTC -0300)"
+  },
+  {
+    "name": "Jujuy Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Jujuy",
+    "text": "Jujuy Time America/Argentina/Jujuy (UTC -0300)"
+  },
+  {
+    "name": "La Rioja Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/La_Rioja",
+    "text": "La Rioja Time America/Argentina/La_Rioja (UTC -0300)"
+  },
+  {
+    "name": "Mendoza Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Mendoza",
+    "text": "Mendoza Time America/Argentina/Mendoza (UTC -0300)"
+  },
+  {
+    "name": "Rio Gallegos Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Rio_Gallegos",
+    "text": "Rio Gallegos Time America/Argentina/Rio_Gallegos (UTC -0300)"
+  },
+  {
+    "name": "Salta Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Salta",
+    "text": "Salta Time America/Argentina/Salta (UTC -0300)"
+  },
+  {
+    "name": "San Juan Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/San_Juan",
+    "text": "San Juan Time America/Argentina/San_Juan (UTC -0300)"
+  },
+  {
+    "name": "San Luis Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/San_Luis",
+    "text": "San Luis Time America/Argentina/San_Luis (UTC -0300)"
+  },
+  {
+    "name": "Tucuman Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Tucuman",
+    "text": "Tucuman Time America/Argentina/Tucuman (UTC -0300)"
+  },
+  {
+    "name": "Ushuaia Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Argentina/Ushuaia",
+    "text": "Ushuaia Time America/Argentina/Ushuaia (UTC -0300)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Aruba",
+    "text": "Atlantic Standard Time America/Aruba (UTC -0400)"
+  },
+  {
+    "name": "Asuncion Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Asuncion",
+    "text": "Asuncion Time America/Asuncion (UTC -0300)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Atikokan",
+    "text": "Eastern Standard Time America/Atikokan (UTC -0500)"
+  },
+  {
+    "name": "Hawaii-Aleutian Daylight Time",
+    "abbr": "HDT",
+    "offset": -540,
+    "utc": "(UTC -0900)",
+    "location": "America/Atka",
+    "text": "Hawaii-Aleutian Daylight Time America/Atka (UTC -0900)"
+  },
+  {
+    "name": "Bahia Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Bahia",
+    "text": "Bahia Time America/Bahia (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Bahia_Banderas",
+    "text": "Central Standard Time America/Bahia_Banderas (UTC -0600)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Barbados",
+    "text": "Atlantic Standard Time America/Barbados (UTC -0400)"
+  },
+  {
+    "name": "Belem Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Belem",
+    "text": "Belem Time America/Belem (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Belize",
+    "text": "Central Standard Time America/Belize (UTC -0600)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Blanc-Sablon",
+    "text": "Atlantic Standard Time America/Blanc-Sablon (UTC -0400)"
+  },
+  {
+    "name": "Boa Vista Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Boa_Vista",
+    "text": "Boa Vista Time America/Boa_Vista (UTC -0400)"
+  },
+  {
+    "name": "Bogota Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Bogota",
+    "text": "Bogota Time America/Bogota (UTC -0500)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Boise",
+    "text": "Mountain Daylight Time America/Boise (UTC -0600)"
+  },
+  {
+    "name": "Buenos Aires Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Buenos_Aires",
+    "text": "Buenos Aires Time America/Buenos_Aires (UTC -0300)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Cambridge_Bay",
+    "text": "Mountain Daylight Time America/Cambridge_Bay (UTC -0600)"
+  },
+  {
+    "name": "Campo Grande Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Campo_Grande",
+    "text": "Campo Grande Time America/Campo_Grande (UTC -0400)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Cancun",
+    "text": "Eastern Standard Time America/Cancun (UTC -0500)"
+  },
+  {
+    "name": "Caracas Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Caracas",
+    "text": "Caracas Time America/Caracas (UTC -0400)"
+  },
+  {
+    "name": "Catamarca Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Catamarca",
+    "text": "Catamarca Time America/Catamarca (UTC -0300)"
+  },
+  {
+    "name": "Cayenne Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Cayenne",
+    "text": "Cayenne Time America/Cayenne (UTC -0300)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Cayman",
+    "text": "Eastern Standard Time America/Cayman (UTC -0500)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Chicago",
+    "text": "Central Daylight Time America/Chicago (UTC -0500)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Chihuahua",
+    "text": "Central Standard Time America/Chihuahua (UTC -0600)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Ciudad_Juarez",
+    "text": "Mountain Daylight Time America/Ciudad_Juarez (UTC -0600)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Coral_Harbour",
+    "text": "Eastern Standard Time America/Coral_Harbour (UTC -0500)"
+  },
+  {
+    "name": "Cordoba Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Cordoba",
+    "text": "Cordoba Time America/Cordoba (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Costa_Rica",
+    "text": "Central Standard Time America/Costa_Rica (UTC -0600)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Creston",
+    "text": "Mountain Standard Time America/Creston (UTC -0700)"
+  },
+  {
+    "name": "Cuiaba Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Cuiaba",
+    "text": "Cuiaba Time America/Cuiaba (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Curacao",
+    "text": "Atlantic Standard Time America/Curacao (UTC -0400)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "America/Danmarkshavn",
+    "text": "Greenwich Mean Time America/Danmarkshavn (UTC +0000)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Dawson",
+    "text": "Mountain Standard Time America/Dawson (UTC -0700)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Dawson_Creek",
+    "text": "Mountain Standard Time America/Dawson_Creek (UTC -0700)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Denver",
+    "text": "Mountain Daylight Time America/Denver (UTC -0600)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Detroit",
+    "text": "Eastern Daylight Time America/Detroit (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Dominica",
+    "text": "Atlantic Standard Time America/Dominica (UTC -0400)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Edmonton",
+    "text": "Mountain Daylight Time America/Edmonton (UTC -0600)"
+  },
+  {
+    "name": "Eirunepe Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Eirunepe",
+    "text": "Eirunepe Time America/Eirunepe (UTC -0500)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/El_Salvador",
+    "text": "Central Standard Time America/El_Salvador (UTC -0600)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Ensenada",
+    "text": "Pacific Daylight Time America/Ensenada (UTC -0700)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Fort_Nelson",
+    "text": "Mountain Standard Time America/Fort_Nelson (UTC -0700)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Fort_Wayne",
+    "text": "Eastern Daylight Time America/Fort_Wayne (UTC -0400)"
+  },
+  {
+    "name": "Fortaleza Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Fortaleza",
+    "text": "Fortaleza Time America/Fortaleza (UTC -0300)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Glace_Bay",
+    "text": "Atlantic Daylight Time America/Glace_Bay (UTC -0300)"
+  },
+  {
+    "name": "Godthab Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "America/Godthab",
+    "text": "Godthab Time America/Godthab (UTC -0200)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Goose_Bay",
+    "text": "Atlantic Daylight Time America/Goose_Bay (UTC -0300)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Grand_Turk",
+    "text": "Eastern Daylight Time America/Grand_Turk (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Grenada",
+    "text": "Atlantic Standard Time America/Grenada (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Guadeloupe",
+    "text": "Atlantic Standard Time America/Guadeloupe (UTC -0400)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Guatemala",
+    "text": "Central Standard Time America/Guatemala (UTC -0600)"
+  },
+  {
+    "name": "Guayaquil Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Guayaquil",
+    "text": "Guayaquil Time America/Guayaquil (UTC -0500)"
+  },
+  {
+    "name": "Guyana Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Guyana",
+    "text": "Guyana Time America/Guyana (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Halifax",
+    "text": "Atlantic Daylight Time America/Halifax (UTC -0300)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Havana",
+    "text": "Central Daylight Time America/Havana (UTC -0400)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Hermosillo",
+    "text": "Mountain Standard Time America/Hermosillo (UTC -0700)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Indianapolis",
+    "text": "Eastern Daylight Time America/Indiana/Indianapolis (UTC -0400)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Indiana/Knox",
+    "text": "Central Daylight Time America/Indiana/Knox (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Marengo",
+    "text": "Eastern Daylight Time America/Indiana/Marengo (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Petersburg",
+    "text": "Eastern Daylight Time America/Indiana/Petersburg (UTC -0400)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Indiana/Tell_City",
+    "text": "Central Daylight Time America/Indiana/Tell_City (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Vevay",
+    "text": "Eastern Daylight Time America/Indiana/Vevay (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Vincennes",
+    "text": "Eastern Daylight Time America/Indiana/Vincennes (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indiana/Winamac",
+    "text": "Eastern Daylight Time America/Indiana/Winamac (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Indianapolis",
+    "text": "Eastern Daylight Time America/Indianapolis (UTC -0400)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Inuvik",
+    "text": "Mountain Daylight Time America/Inuvik (UTC -0600)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Iqaluit",
+    "text": "Eastern Daylight Time America/Iqaluit (UTC -0400)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Jamaica",
+    "text": "Eastern Standard Time America/Jamaica (UTC -0500)"
+  },
+  {
+    "name": "Jujuy Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Jujuy",
+    "text": "Jujuy Time America/Jujuy (UTC -0300)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Juneau",
+    "text": "Alaska Daylight Time America/Juneau (UTC -0800)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Kentucky/Louisville",
+    "text": "Eastern Daylight Time America/Kentucky/Louisville (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Kentucky/Monticello",
+    "text": "Eastern Daylight Time America/Kentucky/Monticello (UTC -0400)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Knox_IN",
+    "text": "Central Daylight Time America/Knox_IN (UTC -0500)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Kralendijk",
+    "text": "Atlantic Standard Time America/Kralendijk (UTC -0400)"
+  },
+  {
+    "name": "La Paz Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/La_Paz",
+    "text": "La Paz Time America/La_Paz (UTC -0400)"
+  },
+  {
+    "name": "Lima Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Lima",
+    "text": "Lima Time America/Lima (UTC -0500)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Los_Angeles",
+    "text": "Pacific Daylight Time America/Los_Angeles (UTC -0700)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Louisville",
+    "text": "Eastern Daylight Time America/Louisville (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Lower_Princes",
+    "text": "Atlantic Standard Time America/Lower_Princes (UTC -0400)"
+  },
+  {
+    "name": "Maceio Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Maceio",
+    "text": "Maceio Time America/Maceio (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Managua",
+    "text": "Central Standard Time America/Managua (UTC -0600)"
+  },
+  {
+    "name": "Manaus Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Manaus",
+    "text": "Manaus Time America/Manaus (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Marigot",
+    "text": "Atlantic Standard Time America/Marigot (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Martinique",
+    "text": "Atlantic Standard Time America/Martinique (UTC -0400)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Matamoros",
+    "text": "Central Daylight Time America/Matamoros (UTC -0500)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Mazatlan",
+    "text": "Mountain Standard Time America/Mazatlan (UTC -0700)"
+  },
+  {
+    "name": "Mendoza Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Mendoza",
+    "text": "Mendoza Time America/Mendoza (UTC -0300)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Menominee",
+    "text": "Central Daylight Time America/Menominee (UTC -0500)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Merida",
+    "text": "Central Standard Time America/Merida (UTC -0600)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Metlakatla",
+    "text": "Alaska Daylight Time America/Metlakatla (UTC -0800)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Mexico_City",
+    "text": "Central Standard Time America/Mexico_City (UTC -0600)"
+  },
+  {
+    "name": "Miquelon Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "America/Miquelon",
+    "text": "Miquelon Time America/Miquelon (UTC -0200)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Moncton",
+    "text": "Atlantic Daylight Time America/Moncton (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Monterrey",
+    "text": "Central Standard Time America/Monterrey (UTC -0600)"
+  },
+  {
+    "name": "Montevideo Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Montevideo",
+    "text": "Montevideo Time America/Montevideo (UTC -0300)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Montreal",
+    "text": "Eastern Daylight Time America/Montreal (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Montserrat",
+    "text": "Atlantic Standard Time America/Montserrat (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Nassau",
+    "text": "Eastern Daylight Time America/Nassau (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/New_York",
+    "text": "Eastern Daylight Time America/New_York (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Nipigon",
+    "text": "Eastern Daylight Time America/Nipigon (UTC -0400)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Nome",
+    "text": "Alaska Daylight Time America/Nome (UTC -0800)"
+  },
+  {
+    "name": "Noronha Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "America/Noronha",
+    "text": "Noronha Time America/Noronha (UTC -0200)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/North_Dakota/Beulah",
+    "text": "Central Daylight Time America/North_Dakota/Beulah (UTC -0500)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/North_Dakota/Center",
+    "text": "Central Daylight Time America/North_Dakota/Center (UTC -0500)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/North_Dakota/New_Salem",
+    "text": "Central Daylight Time America/North_Dakota/New_Salem (UTC -0500)"
+  },
+  {
+    "name": "Nuuk Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "America/Nuuk",
+    "text": "Nuuk Time America/Nuuk (UTC -0200)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Ojinaga",
+    "text": "Central Daylight Time America/Ojinaga (UTC -0500)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Panama",
+    "text": "Eastern Standard Time America/Panama (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Pangnirtung",
+    "text": "Eastern Daylight Time America/Pangnirtung (UTC -0400)"
+  },
+  {
+    "name": "Paramaribo Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Paramaribo",
+    "text": "Paramaribo Time America/Paramaribo (UTC -0300)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Phoenix",
+    "text": "Mountain Standard Time America/Phoenix (UTC -0700)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Port-au-Prince",
+    "text": "Eastern Daylight Time America/Port-au-Prince (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Port_of_Spain",
+    "text": "Atlantic Standard Time America/Port_of_Spain (UTC -0400)"
+  },
+  {
+    "name": "Porto Acre Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Porto_Acre",
+    "text": "Porto Acre Time America/Porto_Acre (UTC -0500)"
+  },
+  {
+    "name": "Porto Velho Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Porto_Velho",
+    "text": "Porto Velho Time America/Porto_Velho (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Puerto_Rico",
+    "text": "Atlantic Standard Time America/Puerto_Rico (UTC -0400)"
+  },
+  {
+    "name": "Punta Arenas Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Punta_Arenas",
+    "text": "Punta Arenas Time America/Punta_Arenas (UTC -0300)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Rainy_River",
+    "text": "Central Daylight Time America/Rainy_River (UTC -0500)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Rankin_Inlet",
+    "text": "Central Daylight Time America/Rankin_Inlet (UTC -0500)"
+  },
+  {
+    "name": "Recife Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Recife",
+    "text": "Recife Time America/Recife (UTC -0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Regina",
+    "text": "Central Standard Time America/Regina (UTC -0600)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Resolute",
+    "text": "Central Daylight Time America/Resolute (UTC -0500)"
+  },
+  {
+    "name": "Rio Branco Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Rio_Branco",
+    "text": "Rio Branco Time America/Rio_Branco (UTC -0500)"
+  },
+  {
+    "name": "Rosario Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Rosario",
+    "text": "Rosario Time America/Rosario (UTC -0300)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Santa_Isabel",
+    "text": "Pacific Daylight Time America/Santa_Isabel (UTC -0700)"
+  },
+  {
+    "name": "Santarem Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Santarem",
+    "text": "Santarem Time America/Santarem (UTC -0300)"
+  },
+  {
+    "name": "Santiago Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Santiago",
+    "text": "Santiago Time America/Santiago (UTC -0300)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Santo_Domingo",
+    "text": "Atlantic Standard Time America/Santo_Domingo (UTC -0400)"
+  },
+  {
+    "name": "Sao Paulo Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Sao_Paulo",
+    "text": "Sao Paulo Time America/Sao_Paulo (UTC -0300)"
+  },
+  {
+    "name": "Scoresbysund Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "America/Scoresbysund",
+    "text": "Scoresbysund Time America/Scoresbysund (UTC -0200)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Shiprock",
+    "text": "Mountain Daylight Time America/Shiprock (UTC -0600)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Sitka",
+    "text": "Alaska Daylight Time America/Sitka (UTC -0800)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/St_Barthelemy",
+    "text": "Atlantic Standard Time America/St_Barthelemy (UTC -0400)"
+  },
+  {
+    "name": "Newfoundland Daylight Time",
+    "abbr": "NDT",
+    "offset": -150,
+    "utc": "(UTC -0230)",
+    "location": "America/St_Johns",
+    "text": "Newfoundland Daylight Time America/St_Johns (UTC -0230)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/St_Kitts",
+    "text": "Atlantic Standard Time America/St_Kitts (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/St_Lucia",
+    "text": "Atlantic Standard Time America/St_Lucia (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/St_Thomas",
+    "text": "Atlantic Standard Time America/St_Thomas (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/St_Vincent",
+    "text": "Atlantic Standard Time America/St_Vincent (UTC -0400)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Swift_Current",
+    "text": "Central Standard Time America/Swift_Current (UTC -0600)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Tegucigalpa",
+    "text": "Central Standard Time America/Tegucigalpa (UTC -0600)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "America/Thule",
+    "text": "Atlantic Daylight Time America/Thule (UTC -0300)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Thunder_Bay",
+    "text": "Eastern Daylight Time America/Thunder_Bay (UTC -0400)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Tijuana",
+    "text": "Pacific Daylight Time America/Tijuana (UTC -0700)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Toronto",
+    "text": "Eastern Daylight Time America/Toronto (UTC -0400)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Tortola",
+    "text": "Atlantic Standard Time America/Tortola (UTC -0400)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Vancouver",
+    "text": "Pacific Daylight Time America/Vancouver (UTC -0700)"
+  },
+  {
+    "name": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "America/Virgin",
+    "text": "Atlantic Standard Time America/Virgin (UTC -0400)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "America/Whitehorse",
+    "text": "Mountain Standard Time America/Whitehorse (UTC -0700)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "America/Winnipeg",
+    "text": "Central Daylight Time America/Winnipeg (UTC -0500)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "America/Yakutat",
+    "text": "Alaska Daylight Time America/Yakutat (UTC -0800)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "America/Yellowknife",
+    "text": "Mountain Daylight Time America/Yellowknife (UTC -0600)"
+  },
+  {
+    "name": "Casey Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Antarctica/Casey",
+    "text": "Casey Time Antarctica/Casey (UTC +0800)"
+  },
+  {
+    "name": "Davis Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Antarctica/Davis",
+    "text": "Davis Time Antarctica/Davis (UTC +0700)"
+  },
+  {
+    "name": "DumontDUrville Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Antarctica/DumontDUrville",
+    "text": "DumontDUrville Time Antarctica/DumontDUrville (UTC +1000)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Antarctica/Macquarie",
+    "text": "Australian Eastern Daylight Time Antarctica/Macquarie (UTC +1100)"
+  },
+  {
+    "name": "Mawson Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Antarctica/Mawson",
+    "text": "Mawson Time Antarctica/Mawson (UTC +0500)"
+  },
+  {
+    "name": "New Zealand Daylight Time",
+    "abbr": "NZDT",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Antarctica/McMurdo",
+    "text": "New Zealand Daylight Time Antarctica/McMurdo (UTC +1300)"
+  },
+  {
+    "name": "Palmer Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Antarctica/Palmer",
+    "text": "Palmer Time Antarctica/Palmer (UTC -0300)"
+  },
+  {
+    "name": "Rothera Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Antarctica/Rothera",
+    "text": "Rothera Time Antarctica/Rothera (UTC -0300)"
+  },
+  {
+    "name": "New Zealand Daylight Time",
+    "abbr": "NZDT",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Antarctica/South_Pole",
+    "text": "New Zealand Daylight Time Antarctica/South_Pole (UTC +1300)"
+  },
+  {
+    "name": "Syowa Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Antarctica/Syowa",
+    "text": "Syowa Time Antarctica/Syowa (UTC +0300)"
+  },
+  {
+    "name": "Troll Time",
+    "abbr": "+00",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Antarctica/Troll",
+    "text": "Troll Time Antarctica/Troll (UTC +0000)"
+  },
+  {
+    "name": "Vostok Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Antarctica/Vostok",
+    "text": "Vostok Time Antarctica/Vostok (UTC +0500)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Arctic/Longyearbyen",
+    "text": "Central European Time Arctic/Longyearbyen (UTC +0100)"
+  },
+  {
+    "name": "Aden Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Aden",
+    "text": "Aden Time Asia/Aden (UTC +0300)"
+  },
+  {
+    "name": "Almaty Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Almaty",
+    "text": "Almaty Time Asia/Almaty (UTC +0500)"
+  },
+  {
+    "name": "Amman Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Amman",
+    "text": "Amman Time Asia/Amman (UTC +0300)"
+  },
+  {
+    "name": "Anadyr Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Asia/Anadyr",
+    "text": "Anadyr Time Asia/Anadyr (UTC +1200)"
+  },
+  {
+    "name": "Aqtau Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Aqtau",
+    "text": "Aqtau Time Asia/Aqtau (UTC +0500)"
+  },
+  {
+    "name": "Aqtobe Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Aqtobe",
+    "text": "Aqtobe Time Asia/Aqtobe (UTC +0500)"
+  },
+  {
+    "name": "Ashgabat Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Ashgabat",
+    "text": "Ashgabat Time Asia/Ashgabat (UTC +0500)"
+  },
+  {
+    "name": "Ashkhabad Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Ashkhabad",
+    "text": "Ashkhabad Time Asia/Ashkhabad (UTC +0500)"
+  },
+  {
+    "name": "Atyrau Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Atyrau",
+    "text": "Atyrau Time Asia/Atyrau (UTC +0500)"
+  },
+  {
+    "name": "Baghdad Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Baghdad",
+    "text": "Baghdad Time Asia/Baghdad (UTC +0300)"
+  },
+  {
+    "name": "Bahrain Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Bahrain",
+    "text": "Bahrain Time Asia/Bahrain (UTC +0300)"
+  },
+  {
+    "name": "Baku Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Asia/Baku",
+    "text": "Baku Time Asia/Baku (UTC +0400)"
+  },
+  {
+    "name": "Bangkok Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Bangkok",
+    "text": "Bangkok Time Asia/Bangkok (UTC +0700)"
+  },
+  {
+    "name": "Barnaul Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Barnaul",
+    "text": "Barnaul Time Asia/Barnaul (UTC +0700)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Beirut",
+    "text": "Eastern European Time Asia/Beirut (UTC +0200)"
+  },
+  {
+    "name": "Bishkek Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Bishkek",
+    "text": "Bishkek Time Asia/Bishkek (UTC +0600)"
+  },
+  {
+    "name": "Brunei Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Brunei",
+    "text": "Brunei Time Asia/Brunei (UTC +0800)"
+  },
+  {
+    "name": "India Standard Time",
+    "abbr": "IST",
+    "offset": 330,
+    "utc": "(UTC +0530)",
+    "location": "Asia/Calcutta",
+    "text": "India Standard Time Asia/Calcutta (UTC +0530)"
+  },
+  {
+    "name": "Chita Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Chita",
+    "text": "Chita Time Asia/Chita (UTC +0900)"
+  },
+  {
+    "name": "Choibalsan Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Choibalsan",
+    "text": "Choibalsan Time Asia/Choibalsan (UTC +0800)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Chongqing",
+    "text": "Central Standard Time Asia/Chongqing (UTC +0800)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Chungking",
+    "text": "Central Standard Time Asia/Chungking (UTC +0800)"
+  },
+  {
+    "name": "Colombo Time",
+    "abbr": "+0530",
+    "offset": 330,
+    "utc": "(UTC +0530)",
+    "location": "Asia/Colombo",
+    "text": "Colombo Time Asia/Colombo (UTC +0530)"
+  },
+  {
+    "name": "Dacca Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Dacca",
+    "text": "Dacca Time Asia/Dacca (UTC +0600)"
+  },
+  {
+    "name": "Damascus Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Damascus",
+    "text": "Damascus Time Asia/Damascus (UTC +0300)"
+  },
+  {
+    "name": "Dhaka Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Dhaka",
+    "text": "Dhaka Time Asia/Dhaka (UTC +0600)"
+  },
+  {
+    "name": "Dili Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Dili",
+    "text": "Dili Time Asia/Dili (UTC +0900)"
+  },
+  {
+    "name": "Dubai Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Asia/Dubai",
+    "text": "Dubai Time Asia/Dubai (UTC +0400)"
+  },
+  {
+    "name": "Dushanbe Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Dushanbe",
+    "text": "Dushanbe Time Asia/Dushanbe (UTC +0500)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Famagusta",
+    "text": "Eastern European Time Asia/Famagusta (UTC +0200)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Gaza",
+    "text": "Eastern European Time Asia/Gaza (UTC +0200)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Harbin",
+    "text": "Central Standard Time Asia/Harbin (UTC +0800)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Hebron",
+    "text": "Eastern European Time Asia/Hebron (UTC +0200)"
+  },
+  {
+    "name": "Ho Chi Minh Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Ho_Chi_Minh",
+    "text": "Ho Chi Minh Time Asia/Ho_Chi_Minh (UTC +0700)"
+  },
+  {
+    "name": "Hong Kong Time",
+    "abbr": "HKT",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Hong_Kong",
+    "text": "Hong Kong Time Asia/Hong_Kong (UTC +0800)"
+  },
+  {
+    "name": "Hovd Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Hovd",
+    "text": "Hovd Time Asia/Hovd (UTC +0700)"
+  },
+  {
+    "name": "Irkutsk Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Irkutsk",
+    "text": "Irkutsk Time Asia/Irkutsk (UTC +0800)"
+  },
+  {
+    "name": "Istanbul Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Istanbul",
+    "text": "Istanbul Time Asia/Istanbul (UTC +0300)"
+  },
+  {
+    "name": "Western Indonesian Time",
+    "abbr": "WIB",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Jakarta",
+    "text": "Western Indonesian Time Asia/Jakarta (UTC +0700)"
+  },
+  {
+    "name": "Eastern Indonesian Time",
+    "abbr": "WIT",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Jayapura",
+    "text": "Eastern Indonesian Time Asia/Jayapura (UTC +0900)"
+  },
+  {
+    "name": "India Standard Time",
+    "abbr": "IST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Jerusalem",
+    "text": "India Standard Time Asia/Jerusalem (UTC +0200)"
+  },
+  {
+    "name": "Kabul Time",
+    "abbr": "+0430",
+    "offset": 270,
+    "utc": "(UTC +0430)",
+    "location": "Asia/Kabul",
+    "text": "Kabul Time Asia/Kabul (UTC +0430)"
+  },
+  {
+    "name": "Kamchatka Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Asia/Kamchatka",
+    "text": "Kamchatka Time Asia/Kamchatka (UTC +1200)"
+  },
+  {
+    "name": "Pakistan Standard Time",
+    "abbr": "PKT",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Karachi",
+    "text": "Pakistan Standard Time Asia/Karachi (UTC +0500)"
+  },
+  {
+    "name": "Kashgar Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Kashgar",
+    "text": "Kashgar Time Asia/Kashgar (UTC +0600)"
+  },
+  {
+    "name": "Kathmandu Time",
+    "abbr": "+0545",
+    "offset": 345,
+    "utc": "(UTC +0545)",
+    "location": "Asia/Kathmandu",
+    "text": "Kathmandu Time Asia/Kathmandu (UTC +0545)"
+  },
+  {
+    "name": "Katmandu Time",
+    "abbr": "+0545",
+    "offset": 345,
+    "utc": "(UTC +0545)",
+    "location": "Asia/Katmandu",
+    "text": "Katmandu Time Asia/Katmandu (UTC +0545)"
+  },
+  {
+    "name": "Khandyga Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Khandyga",
+    "text": "Khandyga Time Asia/Khandyga (UTC +0900)"
+  },
+  {
+    "name": "India Standard Time",
+    "abbr": "IST",
+    "offset": 330,
+    "utc": "(UTC +0530)",
+    "location": "Asia/Kolkata",
+    "text": "India Standard Time Asia/Kolkata (UTC +0530)"
+  },
+  {
+    "name": "Krasnoyarsk Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Krasnoyarsk",
+    "text": "Krasnoyarsk Time Asia/Krasnoyarsk (UTC +0700)"
+  },
+  {
+    "name": "Kuala Lumpur Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Kuala_Lumpur",
+    "text": "Kuala Lumpur Time Asia/Kuala_Lumpur (UTC +0800)"
+  },
+  {
+    "name": "Kuching Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Kuching",
+    "text": "Kuching Time Asia/Kuching (UTC +0800)"
+  },
+  {
+    "name": "Kuwait Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Kuwait",
+    "text": "Kuwait Time Asia/Kuwait (UTC +0300)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Macao",
+    "text": "Central Standard Time Asia/Macao (UTC +0800)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Macau",
+    "text": "Central Standard Time Asia/Macau (UTC +0800)"
+  },
+  {
+    "name": "Magadan Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Asia/Magadan",
+    "text": "Magadan Time Asia/Magadan (UTC +1100)"
+  },
+  {
+    "name": "Central Indonesian Time",
+    "abbr": "WITA",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Makassar",
+    "text": "Central Indonesian Time Asia/Makassar (UTC +0800)"
+  },
+  {
+    "name": "Pacific Standard Time",
+    "abbr": "PST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Manila",
+    "text": "Pacific Standard Time Asia/Manila (UTC +0800)"
+  },
+  {
+    "name": "Muscat Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Asia/Muscat",
+    "text": "Muscat Time Asia/Muscat (UTC +0400)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Nicosia",
+    "text": "Eastern European Time Asia/Nicosia (UTC +0200)"
+  },
+  {
+    "name": "Novokuznetsk Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Novokuznetsk",
+    "text": "Novokuznetsk Time Asia/Novokuznetsk (UTC +0700)"
+  },
+  {
+    "name": "Novosibirsk Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Novosibirsk",
+    "text": "Novosibirsk Time Asia/Novosibirsk (UTC +0700)"
+  },
+  {
+    "name": "Omsk Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Omsk",
+    "text": "Omsk Time Asia/Omsk (UTC +0600)"
+  },
+  {
+    "name": "Oral Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Oral",
+    "text": "Oral Time Asia/Oral (UTC +0500)"
+  },
+  {
+    "name": "Phnom Penh Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Phnom_Penh",
+    "text": "Phnom Penh Time Asia/Phnom_Penh (UTC +0700)"
+  },
+  {
+    "name": "Western Indonesian Time",
+    "abbr": "WIB",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Pontianak",
+    "text": "Western Indonesian Time Asia/Pontianak (UTC +0700)"
+  },
+  {
+    "name": "Korea Standard Time",
+    "abbr": "KST",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Pyongyang",
+    "text": "Korea Standard Time Asia/Pyongyang (UTC +0900)"
+  },
+  {
+    "name": "Qatar Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Qatar",
+    "text": "Qatar Time Asia/Qatar (UTC +0300)"
+  },
+  {
+    "name": "Qostanay Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Qostanay",
+    "text": "Qostanay Time Asia/Qostanay (UTC +0500)"
+  },
+  {
+    "name": "Qyzylorda Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Qyzylorda",
+    "text": "Qyzylorda Time Asia/Qyzylorda (UTC +0500)"
+  },
+  {
+    "name": "Rangoon Time",
+    "abbr": "+0630",
+    "offset": 390,
+    "utc": "(UTC +0630)",
+    "location": "Asia/Rangoon",
+    "text": "Rangoon Time Asia/Rangoon (UTC +0630)"
+  },
+  {
+    "name": "Riyadh Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Asia/Riyadh",
+    "text": "Riyadh Time Asia/Riyadh (UTC +0300)"
+  },
+  {
+    "name": "Saigon Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Saigon",
+    "text": "Saigon Time Asia/Saigon (UTC +0700)"
+  },
+  {
+    "name": "Sakhalin Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Asia/Sakhalin",
+    "text": "Sakhalin Time Asia/Sakhalin (UTC +1100)"
+  },
+  {
+    "name": "Samarkand Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Samarkand",
+    "text": "Samarkand Time Asia/Samarkand (UTC +0500)"
+  },
+  {
+    "name": "Korea Standard Time",
+    "abbr": "KST",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Seoul",
+    "text": "Korea Standard Time Asia/Seoul (UTC +0900)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Shanghai",
+    "text": "Central Standard Time Asia/Shanghai (UTC +0800)"
+  },
+  {
+    "name": "Singapore Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Singapore",
+    "text": "Singapore Time Asia/Singapore (UTC +0800)"
+  },
+  {
+    "name": "Srednekolymsk Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Asia/Srednekolymsk",
+    "text": "Srednekolymsk Time Asia/Srednekolymsk (UTC +1100)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Taipei",
+    "text": "Central Standard Time Asia/Taipei (UTC +0800)"
+  },
+  {
+    "name": "Tashkent Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Tashkent",
+    "text": "Tashkent Time Asia/Tashkent (UTC +0500)"
+  },
+  {
+    "name": "Tbilisi Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Asia/Tbilisi",
+    "text": "Tbilisi Time Asia/Tbilisi (UTC +0400)"
+  },
+  {
+    "name": "Tehran Time",
+    "abbr": "+0330",
+    "offset": 210,
+    "utc": "(UTC +0330)",
+    "location": "Asia/Tehran",
+    "text": "Tehran Time Asia/Tehran (UTC +0330)"
+  },
+  {
+    "name": "India Standard Time",
+    "abbr": "IST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Asia/Tel_Aviv",
+    "text": "India Standard Time Asia/Tel_Aviv (UTC +0200)"
+  },
+  {
+    "name": "Thimbu Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Thimbu",
+    "text": "Thimbu Time Asia/Thimbu (UTC +0600)"
+  },
+  {
+    "name": "Thimphu Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Thimphu",
+    "text": "Thimphu Time Asia/Thimphu (UTC +0600)"
+  },
+  {
+    "name": "Japan Standard Time",
+    "abbr": "JST",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Tokyo",
+    "text": "Japan Standard Time Asia/Tokyo (UTC +0900)"
+  },
+  {
+    "name": "Tomsk Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Tomsk",
+    "text": "Tomsk Time Asia/Tomsk (UTC +0700)"
+  },
+  {
+    "name": "Central Indonesian Time",
+    "abbr": "WITA",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Ujung_Pandang",
+    "text": "Central Indonesian Time Asia/Ujung_Pandang (UTC +0800)"
+  },
+  {
+    "name": "Ulaanbaatar Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Ulaanbaatar",
+    "text": "Ulaanbaatar Time Asia/Ulaanbaatar (UTC +0800)"
+  },
+  {
+    "name": "Ulan Bator Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Asia/Ulan_Bator",
+    "text": "Ulan Bator Time Asia/Ulan_Bator (UTC +0800)"
+  },
+  {
+    "name": "Urumqi Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Asia/Urumqi",
+    "text": "Urumqi Time Asia/Urumqi (UTC +0600)"
+  },
+  {
+    "name": "Ust-Nera Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Asia/Ust-Nera",
+    "text": "Ust-Nera Time Asia/Ust-Nera (UTC +1000)"
+  },
+  {
+    "name": "Vientiane Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Asia/Vientiane",
+    "text": "Vientiane Time Asia/Vientiane (UTC +0700)"
+  },
+  {
+    "name": "Vladivostok Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Asia/Vladivostok",
+    "text": "Vladivostok Time Asia/Vladivostok (UTC +1000)"
+  },
+  {
+    "name": "Yakutsk Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Asia/Yakutsk",
+    "text": "Yakutsk Time Asia/Yakutsk (UTC +0900)"
+  },
+  {
+    "name": "Yangon Time",
+    "abbr": "+0630",
+    "offset": 390,
+    "utc": "(UTC +0630)",
+    "location": "Asia/Yangon",
+    "text": "Yangon Time Asia/Yangon (UTC +0630)"
+  },
+  {
+    "name": "Yekaterinburg Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Asia/Yekaterinburg",
+    "text": "Yekaterinburg Time Asia/Yekaterinburg (UTC +0500)"
+  },
+  {
+    "name": "Yerevan Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Asia/Yerevan",
+    "text": "Yerevan Time Asia/Yerevan (UTC +0400)"
+  },
+  {
+    "name": "Azores Time",
+    "abbr": "-01",
+    "offset": -60,
+    "utc": "(UTC -0100)",
+    "location": "Atlantic/Azores",
+    "text": "Azores Time Atlantic/Azores (UTC -0100)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Atlantic/Bermuda",
+    "text": "Atlantic Daylight Time Atlantic/Bermuda (UTC -0300)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/Canary",
+    "text": "Western European Time Atlantic/Canary (UTC +0000)"
+  },
+  {
+    "name": "Cape Verde Time",
+    "abbr": "-01",
+    "offset": -60,
+    "utc": "(UTC -0100)",
+    "location": "Atlantic/Cape_Verde",
+    "text": "Cape Verde Time Atlantic/Cape_Verde (UTC -0100)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/Faeroe",
+    "text": "Western European Time Atlantic/Faeroe (UTC +0000)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/Faroe",
+    "text": "Western European Time Atlantic/Faroe (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Atlantic/Jan_Mayen",
+    "text": "Central European Time Atlantic/Jan_Mayen (UTC +0100)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/Madeira",
+    "text": "Western European Time Atlantic/Madeira (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/Reykjavik",
+    "text": "Greenwich Mean Time Atlantic/Reykjavik (UTC +0000)"
+  },
+  {
+    "name": "South Georgia Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "Atlantic/South_Georgia",
+    "text": "South Georgia Time Atlantic/South_Georgia (UTC -0200)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Atlantic/St_Helena",
+    "text": "Greenwich Mean Time Atlantic/St_Helena (UTC +0000)"
+  },
+  {
+    "name": "Stanley Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Atlantic/Stanley",
+    "text": "Stanley Time Atlantic/Stanley (UTC -0300)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/ACT",
+    "text": "Australian Eastern Daylight Time Australia/ACT (UTC +1100)"
+  },
+  {
+    "name": "Australian Central Daylight Time",
+    "abbr": "ACDT",
+    "offset": 630,
+    "utc": "(UTC +1030)",
+    "location": "Australia/Adelaide",
+    "text": "Australian Central Daylight Time Australia/Adelaide (UTC +1030)"
+  },
+  {
+    "name": "Australian Eastern Standard Time",
+    "abbr": "AEST",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Australia/Brisbane",
+    "text": "Australian Eastern Standard Time Australia/Brisbane (UTC +1000)"
+  },
+  {
+    "name": "Australian Central Daylight Time",
+    "abbr": "ACDT",
+    "offset": 630,
+    "utc": "(UTC +1030)",
+    "location": "Australia/Broken_Hill",
+    "text": "Australian Central Daylight Time Australia/Broken_Hill (UTC +1030)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Canberra",
+    "text": "Australian Eastern Daylight Time Australia/Canberra (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Currie",
+    "text": "Australian Eastern Daylight Time Australia/Currie (UTC +1100)"
+  },
+  {
+    "name": "Australian Central Standard Time",
+    "abbr": "ACST",
+    "offset": 570,
+    "utc": "(UTC +0930)",
+    "location": "Australia/Darwin",
+    "text": "Australian Central Standard Time Australia/Darwin (UTC +0930)"
+  },
+  {
+    "name": "Eucla Time",
+    "abbr": "+0845",
+    "offset": 525,
+    "utc": "(UTC +0845)",
+    "location": "Australia/Eucla",
+    "text": "Eucla Time Australia/Eucla (UTC +0845)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Hobart",
+    "text": "Australian Eastern Daylight Time Australia/Hobart (UTC +1100)"
+  },
+  {
+    "name": "LHI Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/LHI",
+    "text": "LHI Time Australia/LHI (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Standard Time",
+    "abbr": "AEST",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Australia/Lindeman",
+    "text": "Australian Eastern Standard Time Australia/Lindeman (UTC +1000)"
+  },
+  {
+    "name": "Lord Howe Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Lord_Howe",
+    "text": "Lord Howe Time Australia/Lord_Howe (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Melbourne",
+    "text": "Australian Eastern Daylight Time Australia/Melbourne (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/NSW",
+    "text": "Australian Eastern Daylight Time Australia/NSW (UTC +1100)"
+  },
+  {
+    "name": "Australian Central Standard Time",
+    "abbr": "ACST",
+    "offset": 570,
+    "utc": "(UTC +0930)",
+    "location": "Australia/North",
+    "text": "Australian Central Standard Time Australia/North (UTC +0930)"
+  },
+  {
+    "name": "Australian Western Standard Time",
+    "abbr": "AWST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Australia/Perth",
+    "text": "Australian Western Standard Time Australia/Perth (UTC +0800)"
+  },
+  {
+    "name": "Australian Eastern Standard Time",
+    "abbr": "AEST",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Australia/Queensland",
+    "text": "Australian Eastern Standard Time Australia/Queensland (UTC +1000)"
+  },
+  {
+    "name": "Australian Central Daylight Time",
+    "abbr": "ACDT",
+    "offset": 630,
+    "utc": "(UTC +1030)",
+    "location": "Australia/South",
+    "text": "Australian Central Daylight Time Australia/South (UTC +1030)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Sydney",
+    "text": "Australian Eastern Daylight Time Australia/Sydney (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Tasmania",
+    "text": "Australian Eastern Daylight Time Australia/Tasmania (UTC +1100)"
+  },
+  {
+    "name": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Australia/Victoria",
+    "text": "Australian Eastern Daylight Time Australia/Victoria (UTC +1100)"
+  },
+  {
+    "name": "Australian Western Standard Time",
+    "abbr": "AWST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Australia/West",
+    "text": "Australian Western Standard Time Australia/West (UTC +0800)"
+  },
+  {
+    "name": "Australian Central Daylight Time",
+    "abbr": "ACDT",
+    "offset": 630,
+    "utc": "(UTC +1030)",
+    "location": "Australia/Yancowinna",
+    "text": "Australian Central Daylight Time Australia/Yancowinna (UTC +1030)"
+  },
+  {
+    "name": "Acre Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Brazil/Acre",
+    "text": "Acre Time Brazil/Acre (UTC -0500)"
+  },
+  {
+    "name": "DeNoronha Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "Brazil/DeNoronha",
+    "text": "DeNoronha Time Brazil/DeNoronha (UTC -0200)"
+  },
+  {
+    "name": "East Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Brazil/East",
+    "text": "East Time Brazil/East (UTC -0300)"
+  },
+  {
+    "name": "West Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "Brazil/West",
+    "text": "West Time Brazil/West (UTC -0400)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "CET",
+    "text": "Central European Time CET (UTC +0100)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "CST6CDT",
+    "text": "Central Daylight Time CST6CDT (UTC -0500)"
+  },
+  {
+    "name": "Atlantic Daylight Time",
+    "abbr": "ADT",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Canada/Atlantic",
+    "text": "Atlantic Daylight Time Canada/Atlantic (UTC -0300)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Canada/Central",
+    "text": "Central Daylight Time Canada/Central (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "Canada/Eastern",
+    "text": "Eastern Daylight Time Canada/Eastern (UTC -0400)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Canada/Mountain",
+    "text": "Mountain Daylight Time Canada/Mountain (UTC -0600)"
+  },
+  {
+    "name": "Newfoundland Daylight Time",
+    "abbr": "NDT",
+    "offset": -150,
+    "utc": "(UTC -0230)",
+    "location": "Canada/Newfoundland",
+    "text": "Newfoundland Daylight Time Canada/Newfoundland (UTC -0230)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "Canada/Pacific",
+    "text": "Pacific Daylight Time Canada/Pacific (UTC -0700)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Canada/Saskatchewan",
+    "text": "Central Standard Time Canada/Saskatchewan (UTC -0600)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "Canada/Yukon",
+    "text": "Mountain Standard Time Canada/Yukon (UTC -0700)"
+  },
+  {
+    "name": "Continental Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Chile/Continental",
+    "text": "Continental Time Chile/Continental (UTC -0300)"
+  },
+  {
+    "name": "EasterIsland Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Chile/EasterIsland",
+    "text": "EasterIsland Time Chile/EasterIsland (UTC -0500)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "Cuba",
+    "text": "Central Daylight Time Cuba (UTC -0400)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "EET",
+    "text": "Eastern European Time EET (UTC +0200)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "EST",
+    "text": "Eastern Standard Time EST (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "EST5EDT",
+    "text": "Eastern Daylight Time EST5EDT (UTC -0400)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Egypt",
+    "text": "Eastern European Time Egypt (UTC +0200)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Eire",
+    "text": "Greenwich Mean Time Eire (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/GMT",
+    "text": "Greenwich Mean Time Etc/GMT (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/GMT+0",
+    "text": "Greenwich Mean Time Etc/GMT+0 (UTC +0000)"
+  },
+  {
+    "name": "GMT+1 Time",
+    "abbr": "-01",
+    "offset": -60,
+    "utc": "(UTC -0100)",
+    "location": "Etc/GMT+1",
+    "text": "GMT+1 Time Etc/GMT+1 (UTC -0100)"
+  },
+  {
+    "name": "GMT+10 Time",
+    "abbr": "-10",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "Etc/GMT+10",
+    "text": "GMT+10 Time Etc/GMT+10 (UTC -1000)"
+  },
+  {
+    "name": "GMT+11 Time",
+    "abbr": "-11",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "Etc/GMT+11",
+    "text": "GMT+11 Time Etc/GMT+11 (UTC -1100)"
+  },
+  {
+    "name": "GMT+12 Time",
+    "abbr": "-12",
+    "offset": -720,
+    "utc": "(UTC -1200)",
+    "location": "Etc/GMT+12",
+    "text": "GMT+12 Time Etc/GMT+12 (UTC -1200)"
+  },
+  {
+    "name": "GMT+2 Time",
+    "abbr": "-02",
+    "offset": -120,
+    "utc": "(UTC -0200)",
+    "location": "Etc/GMT+2",
+    "text": "GMT+2 Time Etc/GMT+2 (UTC -0200)"
+  },
+  {
+    "name": "GMT+3 Time",
+    "abbr": "-03",
+    "offset": -180,
+    "utc": "(UTC -0300)",
+    "location": "Etc/GMT+3",
+    "text": "GMT+3 Time Etc/GMT+3 (UTC -0300)"
+  },
+  {
+    "name": "GMT+4 Time",
+    "abbr": "-04",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "Etc/GMT+4",
+    "text": "GMT+4 Time Etc/GMT+4 (UTC -0400)"
+  },
+  {
+    "name": "GMT+5 Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Etc/GMT+5",
+    "text": "GMT+5 Time Etc/GMT+5 (UTC -0500)"
+  },
+  {
+    "name": "GMT+6 Time",
+    "abbr": "-06",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Etc/GMT+6",
+    "text": "GMT+6 Time Etc/GMT+6 (UTC -0600)"
+  },
+  {
+    "name": "GMT+7 Time",
+    "abbr": "-07",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "Etc/GMT+7",
+    "text": "GMT+7 Time Etc/GMT+7 (UTC -0700)"
+  },
+  {
+    "name": "GMT+8 Time",
+    "abbr": "-08",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "Etc/GMT+8",
+    "text": "GMT+8 Time Etc/GMT+8 (UTC -0800)"
+  },
+  {
+    "name": "GMT+9 Time",
+    "abbr": "-09",
+    "offset": -540,
+    "utc": "(UTC -0900)",
+    "location": "Etc/GMT+9",
+    "text": "GMT+9 Time Etc/GMT+9 (UTC -0900)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/GMT-0",
+    "text": "Greenwich Mean Time Etc/GMT-0 (UTC +0000)"
+  },
+  {
+    "name": "GMT-1 Time",
+    "abbr": "+01",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Etc/GMT-1",
+    "text": "GMT-1 Time Etc/GMT-1 (UTC +0100)"
+  },
+  {
+    "name": "GMT-10 Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Etc/GMT-10",
+    "text": "GMT-10 Time Etc/GMT-10 (UTC +1000)"
+  },
+  {
+    "name": "GMT-11 Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Etc/GMT-11",
+    "text": "GMT-11 Time Etc/GMT-11 (UTC +1100)"
+  },
+  {
+    "name": "GMT-12 Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Etc/GMT-12",
+    "text": "GMT-12 Time Etc/GMT-12 (UTC +1200)"
+  },
+  {
+    "name": "GMT-13 Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Etc/GMT-13",
+    "text": "GMT-13 Time Etc/GMT-13 (UTC +1300)"
+  },
+  {
+    "name": "GMT-14 Time",
+    "abbr": "+14",
+    "offset": 840,
+    "utc": "(UTC +1400)",
+    "location": "Etc/GMT-14",
+    "text": "GMT-14 Time Etc/GMT-14 (UTC +1400)"
+  },
+  {
+    "name": "GMT-2 Time",
+    "abbr": "+02",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Etc/GMT-2",
+    "text": "GMT-2 Time Etc/GMT-2 (UTC +0200)"
+  },
+  {
+    "name": "GMT-3 Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Etc/GMT-3",
+    "text": "GMT-3 Time Etc/GMT-3 (UTC +0300)"
+  },
+  {
+    "name": "GMT-4 Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Etc/GMT-4",
+    "text": "GMT-4 Time Etc/GMT-4 (UTC +0400)"
+  },
+  {
+    "name": "GMT-5 Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Etc/GMT-5",
+    "text": "GMT-5 Time Etc/GMT-5 (UTC +0500)"
+  },
+  {
+    "name": "GMT-6 Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Etc/GMT-6",
+    "text": "GMT-6 Time Etc/GMT-6 (UTC +0600)"
+  },
+  {
+    "name": "GMT-7 Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Etc/GMT-7",
+    "text": "GMT-7 Time Etc/GMT-7 (UTC +0700)"
+  },
+  {
+    "name": "GMT-8 Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Etc/GMT-8",
+    "text": "GMT-8 Time Etc/GMT-8 (UTC +0800)"
+  },
+  {
+    "name": "GMT-9 Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Etc/GMT-9",
+    "text": "GMT-9 Time Etc/GMT-9 (UTC +0900)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/GMT0",
+    "text": "Greenwich Mean Time Etc/GMT0 (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/Greenwich",
+    "text": "Greenwich Mean Time Etc/Greenwich (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/UCT",
+    "text": "Coordinated Universal Time Etc/UCT (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/UTC",
+    "text": "Coordinated Universal Time Etc/UTC (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/Universal",
+    "text": "Coordinated Universal Time Etc/Universal (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Etc/Zulu",
+    "text": "Coordinated Universal Time Etc/Zulu (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Amsterdam",
+    "text": "Central European Time Europe/Amsterdam (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Andorra",
+    "text": "Central European Time Europe/Andorra (UTC +0100)"
+  },
+  {
+    "name": "Astrakhan Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Europe/Astrakhan",
+    "text": "Astrakhan Time Europe/Astrakhan (UTC +0400)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Athens",
+    "text": "Eastern European Time Europe/Athens (UTC +0200)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Belfast",
+    "text": "Greenwich Mean Time Europe/Belfast (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Belgrade",
+    "text": "Central European Time Europe/Belgrade (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Berlin",
+    "text": "Central European Time Europe/Berlin (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Bratislava",
+    "text": "Central European Time Europe/Bratislava (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Brussels",
+    "text": "Central European Time Europe/Brussels (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Bucharest",
+    "text": "Eastern European Time Europe/Bucharest (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Budapest",
+    "text": "Central European Time Europe/Budapest (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Busingen",
+    "text": "Central European Time Europe/Busingen (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Chisinau",
+    "text": "Eastern European Time Europe/Chisinau (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Copenhagen",
+    "text": "Central European Time Europe/Copenhagen (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Dublin",
+    "text": "Greenwich Mean Time Europe/Dublin (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Gibraltar",
+    "text": "Central European Time Europe/Gibraltar (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Guernsey",
+    "text": "Greenwich Mean Time Europe/Guernsey (UTC +0000)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Helsinki",
+    "text": "Eastern European Time Europe/Helsinki (UTC +0200)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Isle_of_Man",
+    "text": "Greenwich Mean Time Europe/Isle_of_Man (UTC +0000)"
+  },
+  {
+    "name": "Istanbul Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Istanbul",
+    "text": "Istanbul Time Europe/Istanbul (UTC +0300)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Jersey",
+    "text": "Greenwich Mean Time Europe/Jersey (UTC +0000)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Kaliningrad",
+    "text": "Eastern European Time Europe/Kaliningrad (UTC +0200)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Kiev",
+    "text": "Eastern European Time Europe/Kiev (UTC +0200)"
+  },
+  {
+    "name": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Kirov",
+    "text": "Moscow Standard Time Europe/Kirov (UTC +0300)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Kyiv",
+    "text": "Eastern European Time Europe/Kyiv (UTC +0200)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/Lisbon",
+    "text": "Western European Time Europe/Lisbon (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Ljubljana",
+    "text": "Central European Time Europe/Ljubljana (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Europe/London",
+    "text": "Greenwich Mean Time Europe/London (UTC +0000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Luxembourg",
+    "text": "Central European Time Europe/Luxembourg (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Madrid",
+    "text": "Central European Time Europe/Madrid (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Malta",
+    "text": "Central European Time Europe/Malta (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Mariehamn",
+    "text": "Eastern European Time Europe/Mariehamn (UTC +0200)"
+  },
+  {
+    "name": "Minsk Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Minsk",
+    "text": "Minsk Time Europe/Minsk (UTC +0300)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Monaco",
+    "text": "Central European Time Europe/Monaco (UTC +0100)"
+  },
+  {
+    "name": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Moscow",
+    "text": "Moscow Standard Time Europe/Moscow (UTC +0300)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Nicosia",
+    "text": "Eastern European Time Europe/Nicosia (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Oslo",
+    "text": "Central European Time Europe/Oslo (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Paris",
+    "text": "Central European Time Europe/Paris (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Podgorica",
+    "text": "Central European Time Europe/Podgorica (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Prague",
+    "text": "Central European Time Europe/Prague (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Riga",
+    "text": "Eastern European Time Europe/Riga (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Rome",
+    "text": "Central European Time Europe/Rome (UTC +0100)"
+  },
+  {
+    "name": "Samara Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Europe/Samara",
+    "text": "Samara Time Europe/Samara (UTC +0400)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/San_Marino",
+    "text": "Central European Time Europe/San_Marino (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Sarajevo",
+    "text": "Central European Time Europe/Sarajevo (UTC +0100)"
+  },
+  {
+    "name": "Saratov Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Europe/Saratov",
+    "text": "Saratov Time Europe/Saratov (UTC +0400)"
+  },
+  {
+    "name": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Simferopol",
+    "text": "Moscow Standard Time Europe/Simferopol (UTC +0300)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Skopje",
+    "text": "Central European Time Europe/Skopje (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Sofia",
+    "text": "Eastern European Time Europe/Sofia (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Stockholm",
+    "text": "Central European Time Europe/Stockholm (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Tallinn",
+    "text": "Eastern European Time Europe/Tallinn (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Tirane",
+    "text": "Central European Time Europe/Tirane (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Tiraspol",
+    "text": "Eastern European Time Europe/Tiraspol (UTC +0200)"
+  },
+  {
+    "name": "Ulyanovsk Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Europe/Ulyanovsk",
+    "text": "Ulyanovsk Time Europe/Ulyanovsk (UTC +0400)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Uzhgorod",
+    "text": "Eastern European Time Europe/Uzhgorod (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Vaduz",
+    "text": "Central European Time Europe/Vaduz (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Vatican",
+    "text": "Central European Time Europe/Vatican (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Vienna",
+    "text": "Central European Time Europe/Vienna (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Vilnius",
+    "text": "Eastern European Time Europe/Vilnius (UTC +0200)"
+  },
+  {
+    "name": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Europe/Volgograd",
+    "text": "Moscow Standard Time Europe/Volgograd (UTC +0300)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Warsaw",
+    "text": "Central European Time Europe/Warsaw (UTC +0100)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Zagreb",
+    "text": "Central European Time Europe/Zagreb (UTC +0100)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Europe/Zaporozhye",
+    "text": "Eastern European Time Europe/Zaporozhye (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Europe/Zurich",
+    "text": "Central European Time Europe/Zurich (UTC +0100)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GB",
+    "text": "Greenwich Mean Time GB (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GB-Eire",
+    "text": "Greenwich Mean Time GB-Eire (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GMT",
+    "text": "Greenwich Mean Time GMT (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GMT+0",
+    "text": "Greenwich Mean Time GMT+0 (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GMT-0",
+    "text": "Greenwich Mean Time GMT-0 (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "GMT0",
+    "text": "Greenwich Mean Time GMT0 (UTC +0000)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Greenwich",
+    "text": "Greenwich Mean Time Greenwich (UTC +0000)"
+  },
+  {
+    "name": "Hawaii Standard Time",
+    "abbr": "HST",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "HST",
+    "text": "Hawaii Standard Time HST (UTC -1000)"
+  },
+  {
+    "name": "Hong Kong Time",
+    "abbr": "HKT",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Hongkong",
+    "text": "Hong Kong Time Hongkong (UTC +0800)"
+  },
+  {
+    "name": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Iceland",
+    "text": "Greenwich Mean Time Iceland (UTC +0000)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Indian/Antananarivo",
+    "text": "Eastern Africa Time Indian/Antananarivo (UTC +0300)"
+  },
+  {
+    "name": "Chagos Time",
+    "abbr": "+06",
+    "offset": 360,
+    "utc": "(UTC +0600)",
+    "location": "Indian/Chagos",
+    "text": "Chagos Time Indian/Chagos (UTC +0600)"
+  },
+  {
+    "name": "Christmas Time",
+    "abbr": "+07",
+    "offset": 420,
+    "utc": "(UTC +0700)",
+    "location": "Indian/Christmas",
+    "text": "Christmas Time Indian/Christmas (UTC +0700)"
+  },
+  {
+    "name": "Cocos Time",
+    "abbr": "+0630",
+    "offset": 390,
+    "utc": "(UTC +0630)",
+    "location": "Indian/Cocos",
+    "text": "Cocos Time Indian/Cocos (UTC +0630)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Indian/Comoro",
+    "text": "Eastern Africa Time Indian/Comoro (UTC +0300)"
+  },
+  {
+    "name": "Kerguelen Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Indian/Kerguelen",
+    "text": "Kerguelen Time Indian/Kerguelen (UTC +0500)"
+  },
+  {
+    "name": "Mahe Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Indian/Mahe",
+    "text": "Mahe Time Indian/Mahe (UTC +0400)"
+  },
+  {
+    "name": "Maldives Time",
+    "abbr": "+05",
+    "offset": 300,
+    "utc": "(UTC +0500)",
+    "location": "Indian/Maldives",
+    "text": "Maldives Time Indian/Maldives (UTC +0500)"
+  },
+  {
+    "name": "Mauritius Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Indian/Mauritius",
+    "text": "Mauritius Time Indian/Mauritius (UTC +0400)"
+  },
+  {
+    "name": "Eastern Africa Time",
+    "abbr": "EAT",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Indian/Mayotte",
+    "text": "Eastern Africa Time Indian/Mayotte (UTC +0300)"
+  },
+  {
+    "name": "Reunion Time",
+    "abbr": "+04",
+    "offset": 240,
+    "utc": "(UTC +0400)",
+    "location": "Indian/Reunion",
+    "text": "Reunion Time Indian/Reunion (UTC +0400)"
+  },
+  {
+    "name": "Iran Time",
+    "abbr": "+0330",
+    "offset": 210,
+    "utc": "(UTC +0330)",
+    "location": "Iran",
+    "text": "Iran Time Iran (UTC +0330)"
+  },
+  {
+    "name": "India Standard Time",
+    "abbr": "IST",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Israel",
+    "text": "India Standard Time Israel (UTC +0200)"
+  },
+  {
+    "name": "Eastern Standard Time",
+    "abbr": "EST",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Jamaica",
+    "text": "Eastern Standard Time Jamaica (UTC -0500)"
+  },
+  {
+    "name": "Japan Standard Time",
+    "abbr": "JST",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Japan",
+    "text": "Japan Standard Time Japan (UTC +0900)"
+  },
+  {
+    "name": "Kwajalein Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Kwajalein",
+    "text": "Kwajalein Time Kwajalein (UTC +1200)"
+  },
+  {
+    "name": "Eastern European Time",
+    "abbr": "EET",
+    "offset": 120,
+    "utc": "(UTC +0200)",
+    "location": "Libya",
+    "text": "Eastern European Time Libya (UTC +0200)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "MET",
+    "text": "Central European Time MET (UTC +0100)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "MST",
+    "text": "Mountain Standard Time MST (UTC -0700)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "MST7MDT",
+    "text": "Mountain Daylight Time MST7MDT (UTC -0600)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "Mexico/BajaNorte",
+    "text": "Pacific Daylight Time Mexico/BajaNorte (UTC -0700)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "Mexico/BajaSur",
+    "text": "Mountain Standard Time Mexico/BajaSur (UTC -0700)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Mexico/General",
+    "text": "Central Standard Time Mexico/General (UTC -0600)"
+  },
+  {
+    "name": "New Zealand Daylight Time",
+    "abbr": "NZDT",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "NZ",
+    "text": "New Zealand Daylight Time NZ (UTC +1300)"
+  },
+  {
+    "name": "NZ-CHAT Time",
+    "abbr": "+1345",
+    "offset": 825,
+    "utc": "(UTC +1345)",
+    "location": "NZ-CHAT",
+    "text": "NZ-CHAT Time NZ-CHAT (UTC +1345)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Navajo",
+    "text": "Mountain Daylight Time Navajo (UTC -0600)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "PRC",
+    "text": "Central Standard Time PRC (UTC +0800)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "PST8PDT",
+    "text": "Pacific Daylight Time PST8PDT (UTC -0700)"
+  },
+  {
+    "name": "Apia Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Apia",
+    "text": "Apia Time Pacific/Apia (UTC +1300)"
+  },
+  {
+    "name": "New Zealand Daylight Time",
+    "abbr": "NZDT",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Auckland",
+    "text": "New Zealand Daylight Time Pacific/Auckland (UTC +1300)"
+  },
+  {
+    "name": "Bougainville Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Bougainville",
+    "text": "Bougainville Time Pacific/Bougainville (UTC +1100)"
+  },
+  {
+    "name": "Chatham Time",
+    "abbr": "+1345",
+    "offset": 825,
+    "utc": "(UTC +1345)",
+    "location": "Pacific/Chatham",
+    "text": "Chatham Time Pacific/Chatham (UTC +1345)"
+  },
+  {
+    "name": "Chuuk Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Chuuk",
+    "text": "Chuuk Time Pacific/Chuuk (UTC +1000)"
+  },
+  {
+    "name": "Easter Time",
+    "abbr": "-05",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "Pacific/Easter",
+    "text": "Easter Time Pacific/Easter (UTC -0500)"
+  },
+  {
+    "name": "Efate Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Efate",
+    "text": "Efate Time Pacific/Efate (UTC +1100)"
+  },
+  {
+    "name": "Enderbury Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Enderbury",
+    "text": "Enderbury Time Pacific/Enderbury (UTC +1300)"
+  },
+  {
+    "name": "Fakaofo Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Fakaofo",
+    "text": "Fakaofo Time Pacific/Fakaofo (UTC +1300)"
+  },
+  {
+    "name": "Fiji Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Fiji",
+    "text": "Fiji Time Pacific/Fiji (UTC +1200)"
+  },
+  {
+    "name": "Funafuti Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Funafuti",
+    "text": "Funafuti Time Pacific/Funafuti (UTC +1200)"
+  },
+  {
+    "name": "Galapagos Time",
+    "abbr": "-06",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "Pacific/Galapagos",
+    "text": "Galapagos Time Pacific/Galapagos (UTC -0600)"
+  },
+  {
+    "name": "Gambier Time",
+    "abbr": "-09",
+    "offset": -540,
+    "utc": "(UTC -0900)",
+    "location": "Pacific/Gambier",
+    "text": "Gambier Time Pacific/Gambier (UTC -0900)"
+  },
+  {
+    "name": "Guadalcanal Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Guadalcanal",
+    "text": "Guadalcanal Time Pacific/Guadalcanal (UTC +1100)"
+  },
+  {
+    "name": "Chamorro Standard Time",
+    "abbr": "ChST",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Guam",
+    "text": "Chamorro Standard Time Pacific/Guam (UTC +1000)"
+  },
+  {
+    "name": "Hawaii Standard Time",
+    "abbr": "HST",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "Pacific/Honolulu",
+    "text": "Hawaii Standard Time Pacific/Honolulu (UTC -1000)"
+  },
+  {
+    "name": "Hawaii Standard Time",
+    "abbr": "HST",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "Pacific/Johnston",
+    "text": "Hawaii Standard Time Pacific/Johnston (UTC -1000)"
+  },
+  {
+    "name": "Kanton Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Kanton",
+    "text": "Kanton Time Pacific/Kanton (UTC +1300)"
+  },
+  {
+    "name": "Kiritimati Time",
+    "abbr": "+14",
+    "offset": 840,
+    "utc": "(UTC +1400)",
+    "location": "Pacific/Kiritimati",
+    "text": "Kiritimati Time Pacific/Kiritimati (UTC +1400)"
+  },
+  {
+    "name": "Kosrae Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Kosrae",
+    "text": "Kosrae Time Pacific/Kosrae (UTC +1100)"
+  },
+  {
+    "name": "Kwajalein Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Kwajalein",
+    "text": "Kwajalein Time Pacific/Kwajalein (UTC +1200)"
+  },
+  {
+    "name": "Majuro Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Majuro",
+    "text": "Majuro Time Pacific/Majuro (UTC +1200)"
+  },
+  {
+    "name": "Marquesas Time",
+    "abbr": "-0930",
+    "offset": -570,
+    "utc": "(UTC -0930)",
+    "location": "Pacific/Marquesas",
+    "text": "Marquesas Time Pacific/Marquesas (UTC -0930)"
+  },
+  {
+    "name": "Samoa Standard Time",
+    "abbr": "SST",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "Pacific/Midway",
+    "text": "Samoa Standard Time Pacific/Midway (UTC -1100)"
+  },
+  {
+    "name": "Nauru Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Nauru",
+    "text": "Nauru Time Pacific/Nauru (UTC +1200)"
+  },
+  {
+    "name": "Niue Time",
+    "abbr": "-11",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "Pacific/Niue",
+    "text": "Niue Time Pacific/Niue (UTC -1100)"
+  },
+  {
+    "name": "Norfolk Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Norfolk",
+    "text": "Norfolk Time Pacific/Norfolk (UTC +1200)"
+  },
+  {
+    "name": "Noumea Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Noumea",
+    "text": "Noumea Time Pacific/Noumea (UTC +1100)"
+  },
+  {
+    "name": "Samoa Standard Time",
+    "abbr": "SST",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "Pacific/Pago_Pago",
+    "text": "Samoa Standard Time Pacific/Pago_Pago (UTC -1100)"
+  },
+  {
+    "name": "Palau Time",
+    "abbr": "+09",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "Pacific/Palau",
+    "text": "Palau Time Pacific/Palau (UTC +0900)"
+  },
+  {
+    "name": "Pitcairn Time",
+    "abbr": "-08",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "Pacific/Pitcairn",
+    "text": "Pitcairn Time Pacific/Pitcairn (UTC -0800)"
+  },
+  {
+    "name": "Pohnpei Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Pohnpei",
+    "text": "Pohnpei Time Pacific/Pohnpei (UTC +1100)"
+  },
+  {
+    "name": "Ponape Time",
+    "abbr": "+11",
+    "offset": 660,
+    "utc": "(UTC +1100)",
+    "location": "Pacific/Ponape",
+    "text": "Ponape Time Pacific/Ponape (UTC +1100)"
+  },
+  {
+    "name": "Port Moresby Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Port_Moresby",
+    "text": "Port Moresby Time Pacific/Port_Moresby (UTC +1000)"
+  },
+  {
+    "name": "Rarotonga Time",
+    "abbr": "-10",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "Pacific/Rarotonga",
+    "text": "Rarotonga Time Pacific/Rarotonga (UTC -1000)"
+  },
+  {
+    "name": "Chamorro Standard Time",
+    "abbr": "ChST",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Saipan",
+    "text": "Chamorro Standard Time Pacific/Saipan (UTC +1000)"
+  },
+  {
+    "name": "Samoa Standard Time",
+    "abbr": "SST",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "Pacific/Samoa",
+    "text": "Samoa Standard Time Pacific/Samoa (UTC -1100)"
+  },
+  {
+    "name": "Tahiti Time",
+    "abbr": "-10",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "Pacific/Tahiti",
+    "text": "Tahiti Time Pacific/Tahiti (UTC -1000)"
+  },
+  {
+    "name": "Tarawa Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Tarawa",
+    "text": "Tarawa Time Pacific/Tarawa (UTC +1200)"
+  },
+  {
+    "name": "Tongatapu Time",
+    "abbr": "+13",
+    "offset": 780,
+    "utc": "(UTC +1300)",
+    "location": "Pacific/Tongatapu",
+    "text": "Tongatapu Time Pacific/Tongatapu (UTC +1300)"
+  },
+  {
+    "name": "Truk Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Truk",
+    "text": "Truk Time Pacific/Truk (UTC +1000)"
+  },
+  {
+    "name": "Wake Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Wake",
+    "text": "Wake Time Pacific/Wake (UTC +1200)"
+  },
+  {
+    "name": "Wallis Time",
+    "abbr": "+12",
+    "offset": 720,
+    "utc": "(UTC +1200)",
+    "location": "Pacific/Wallis",
+    "text": "Wallis Time Pacific/Wallis (UTC +1200)"
+  },
+  {
+    "name": "Yap Time",
+    "abbr": "+10",
+    "offset": 600,
+    "utc": "(UTC +1000)",
+    "location": "Pacific/Yap",
+    "text": "Yap Time Pacific/Yap (UTC +1000)"
+  },
+  {
+    "name": "Central European Time",
+    "abbr": "CET",
+    "offset": 60,
+    "utc": "(UTC +0100)",
+    "location": "Poland",
+    "text": "Central European Time Poland (UTC +0100)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Portugal",
+    "text": "Western European Time Portugal (UTC +0000)"
+  },
+  {
+    "name": "Central Standard Time",
+    "abbr": "CST",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "ROC",
+    "text": "Central Standard Time ROC (UTC +0800)"
+  },
+  {
+    "name": "Korea Standard Time",
+    "abbr": "KST",
+    "offset": 540,
+    "utc": "(UTC +0900)",
+    "location": "ROK",
+    "text": "Korea Standard Time ROK (UTC +0900)"
+  },
+  {
+    "name": "Singapore Time",
+    "abbr": "+08",
+    "offset": 480,
+    "utc": "(UTC +0800)",
+    "location": "Singapore",
+    "text": "Singapore Time Singapore (UTC +0800)"
+  },
+  {
+    "name": "Turkey Time",
+    "abbr": "+03",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "Turkey",
+    "text": "Turkey Time Turkey (UTC +0300)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "UCT",
+    "text": "Coordinated Universal Time UCT (UTC +0000)"
+  },
+  {
+    "name": "Alaska Daylight Time",
+    "abbr": "AKDT",
+    "offset": -480,
+    "utc": "(UTC -0800)",
+    "location": "US/Alaska",
+    "text": "Alaska Daylight Time US/Alaska (UTC -0800)"
+  },
+  {
+    "name": "Hawaii-Aleutian Daylight Time",
+    "abbr": "HDT",
+    "offset": -540,
+    "utc": "(UTC -0900)",
+    "location": "US/Aleutian",
+    "text": "Hawaii-Aleutian Daylight Time US/Aleutian (UTC -0900)"
+  },
+  {
+    "name": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "US/Arizona",
+    "text": "Mountain Standard Time US/Arizona (UTC -0700)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "US/Central",
+    "text": "Central Daylight Time US/Central (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "US/East-Indiana",
+    "text": "Eastern Daylight Time US/East-Indiana (UTC -0400)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "US/Eastern",
+    "text": "Eastern Daylight Time US/Eastern (UTC -0400)"
+  },
+  {
+    "name": "Hawaii Standard Time",
+    "abbr": "HST",
+    "offset": -600,
+    "utc": "(UTC -1000)",
+    "location": "US/Hawaii",
+    "text": "Hawaii Standard Time US/Hawaii (UTC -1000)"
+  },
+  {
+    "name": "Central Daylight Time",
+    "abbr": "CDT",
+    "offset": -300,
+    "utc": "(UTC -0500)",
+    "location": "US/Indiana-Starke",
+    "text": "Central Daylight Time US/Indiana-Starke (UTC -0500)"
+  },
+  {
+    "name": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -240,
+    "utc": "(UTC -0400)",
+    "location": "US/Michigan",
+    "text": "Eastern Daylight Time US/Michigan (UTC -0400)"
+  },
+  {
+    "name": "Mountain Daylight Time",
+    "abbr": "MDT",
+    "offset": -360,
+    "utc": "(UTC -0600)",
+    "location": "US/Mountain",
+    "text": "Mountain Daylight Time US/Mountain (UTC -0600)"
+  },
+  {
+    "name": "Pacific Daylight Time",
+    "abbr": "PDT",
+    "offset": -420,
+    "utc": "(UTC -0700)",
+    "location": "US/Pacific",
+    "text": "Pacific Daylight Time US/Pacific (UTC -0700)"
+  },
+  {
+    "name": "Samoa Standard Time",
+    "abbr": "SST",
+    "offset": -660,
+    "utc": "(UTC -1100)",
+    "location": "US/Samoa",
+    "text": "Samoa Standard Time US/Samoa (UTC -1100)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "UTC",
+    "text": "Coordinated Universal Time UTC (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Universal",
+    "text": "Coordinated Universal Time Universal (UTC +0000)"
+  },
+  {
+    "name": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 180,
+    "utc": "(UTC +0300)",
+    "location": "W-SU",
+    "text": "Moscow Standard Time W-SU (UTC +0300)"
+  },
+  {
+    "name": "Western European Time",
+    "abbr": "WET",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "WET",
+    "text": "Western European Time WET (UTC +0000)"
+  },
+  {
+    "name": "Coordinated Universal Time",
+    "abbr": "UTC",
+    "offset": 0,
+    "utc": "(UTC +0000)",
+    "location": "Zulu",
+    "text": "Coordinated Universal Time Zulu (UTC +0000)"
+  }
+]
